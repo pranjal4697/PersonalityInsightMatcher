@@ -68,8 +68,8 @@ def flatten(original):
 
 #The next step is to write a function that can compare two dictionaries (the user1's and the user2's).
 
-user1_handle = "@narendramodi"
-user2_handle = "@ArvindKejriwal"
+user1_handle = "@user_handle1"
+user2_handle = "@user_handle2"
 
 def compare(dict1, dict2):
     compared_data = {}
